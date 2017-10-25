@@ -2,6 +2,7 @@
   "dependencies": {
     "play-sound": "^1.1.1"
   },
+  "private": false,
   "name": "@pindakaasman/exploding-error",
   "version": "1.0.0",
   "description": "Provides unhandled errors with an explosion sound",
