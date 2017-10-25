@@ -1,7 +1,5 @@
 
 <h1 style="text-align: center">Exploding Errors</h1>
-![awesomeness](https://img.shields.io/badge/awesomeness-100%25-ff96b4.svg)
-
 ![explosion](https://i.imgur.com/rkvEyUl.jpg)
 
 ## Usage
