@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "play-sound": "^1.1.1"
+  },
+  "name": "@pindakaasman/exploding-error",
+  "version": "1.0.0",
+  "description": "Provides unhandled errors with an explosion sound",
+  "main": "index.js",
+  "repository": "git@github.com:RamonGebben/exploding-errors.git",
+  "author": "Ramon Gebben <ramon@ra-ge.net>",
+  "license": "MIT"
+}
